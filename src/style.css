@@ -11,7 +11,7 @@ body {
 a {
   text-decoration: none !important;
   color: white !important;
-  font-size: 20px;
+  font-size: 18px;
 }
 a:hover {
   color: #333 !important;
@@ -28,7 +28,7 @@ h2 {
 }
 
 p {
-  font-size: 24px;
+  font-size: 22px;
 }
 strong {
   color: #af54a7;
@@ -56,7 +56,7 @@ strong {
 }
 
 span {
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 .menu {
   background: radial-gradient(
@@ -83,7 +83,7 @@ span {
 
 #navbar {
   background-color: transparent !important;
-  font-size: 20px !important;
+  font-size: 18px !important;
   cursor: pointer;
   background-color: transparent;
   color: white;
@@ -117,11 +117,11 @@ span {
   margin-top: 50px;
   padding: 50px 10px;
   background-repeat: no-repeat;
-  background-size:100%;
+  background-size: 100%;
 }
 .quote {
   text-align: center;
-  font-size: 50px;
+  font-size: 48px;
 }
 #author {
   text-align: center;
@@ -145,11 +145,11 @@ span {
   color: white !important;
   font-weight: normal !important;
 }
-.middle-section{
+.middle-section {
   text-align: center;
 }
-.middle-section i{
-  font-size: 30px;
+.middle-section i {
+  font-size: 28px;
 }
 /*main page*/
 .text {
@@ -169,7 +169,7 @@ footer p {
 }
 #geotag {
   color: white;
-  font-size: 24px;
+  font-size: 22px;
 }
 .contact {
   background: radial-gradient(
