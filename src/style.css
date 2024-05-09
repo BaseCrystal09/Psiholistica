@@ -121,7 +121,7 @@ span {
 }
 .quote {
   text-align: center;
-  font-size: 48px;
+  font-size: 46px;
 }
 #author {
   text-align: center;
@@ -166,6 +166,7 @@ span {
 /*footer*/
 footer p {
   margin-bottom: 0 !important;
+  font-size: 18px;
 }
 #geotag {
   color: white;
