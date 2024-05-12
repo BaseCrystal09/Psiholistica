@@ -243,4 +243,7 @@ footer p {
   .list img {
     display: none;
   }
+  strong {
+    color: #af54a7;
+  }
 }
