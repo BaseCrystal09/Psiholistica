@@ -11,7 +11,7 @@ body {
 a {
   text-decoration: none !important;
   color: white !important;
-  font-size: 18px;
+  font-size: 16px;
 }
 a:hover {
   color: #333 !important;
@@ -24,7 +24,7 @@ img {
 h2 {
   color: #af54a7 !important;
   text-align: center;
-  margin-bottom: 20px !important;
+  margin-bottom: 18px !important;
 }
 
 p {
@@ -56,7 +56,7 @@ strong {
 }
 
 span {
-  font-size: 18px !important;
+  font-size: 16px !important;
 }
 .menu {
   background: radial-gradient(
@@ -83,7 +83,7 @@ span {
 
 #navbar {
   background-color: transparent !important;
-  font-size: 18px !important;
+  font-size: 16px !important;
   cursor: pointer;
   background-color: transparent;
   color: white;
@@ -112,6 +112,7 @@ span {
   padding: 10px;
 }
 /*Hero */
+
 .head-page {
   margin: 0;
   margin-top: 50px;
@@ -121,7 +122,7 @@ span {
 }
 .quote {
   text-align: center;
-  font-size: 46px;
+  font-size: 40px;
 }
 #author {
   text-align: center;
@@ -141,6 +142,7 @@ span {
   margin: 50px 0;
 }
 .middle-section h2 {
+  font-size: 26px;
   align-content: center;
   color: white !important;
   font-weight: normal !important;
@@ -149,7 +151,7 @@ span {
   text-align: center;
 }
 .middle-section i {
-  font-size: 28px;
+  font-size: 26px;
 }
 /*main page*/
 .text {
@@ -166,11 +168,10 @@ span {
 /*footer*/
 footer p {
   margin-bottom: 0 !important;
-  font-size: 18px;
 }
 #geotag {
   color: white;
-  font-size: 22px;
+  font-size: 24px;
 }
 .contact {
   background: radial-gradient(
@@ -182,6 +183,9 @@ footer p {
   justify-content: center;
   color: #facaf6;
   padding: 10px !important;
+}
+.contact p {
+  font-size: 18px;
 }
 .rights {
   background-color: #af54a7;
@@ -208,6 +212,9 @@ footer p {
   .nav-link li {
     display: flex;
     margin-bottom: 0;
+  }
+  .middle-section h2 {
+    font-size: 14px;
   }
 
   .navbar-toggler {
